@@ -1,0 +1,32 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: monospace;
+    color: rgb(146, 140, 140);
+}
+
+body{}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(240, 236, 230);
+    height: 100vh;
+}
+.content{
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+}
+.my__job{
+    font-size: 30px;
+}
+.my__job, .traning{
+    display: flex;
+    justify-content: center;
+}
+.traning{
+    font-size: 22px;
+}
