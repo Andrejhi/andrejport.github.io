@@ -9,9 +9,6 @@
         <p>Добро пожаловать на мою страницу</p>
         <p>Меня зовут Исупов Андрей и я веб-разработчик</p>
     </h1>
-    <h2 slyle="text-align:center;">Это мои работы</h2>
-    <p>Работы с наставником</p>
-    <p><a href="https://andrejport.github.io/youtbe/#">Свой ютуб</a></p>
-    
+    <h2 slyle="text-align:center;">Тут мои работы</h2>
 </body>
 </html>
