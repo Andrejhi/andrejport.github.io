@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -12,3 +13,6 @@
     <h2 slyle="text-align:center;">Тут мои работы</h2>
 </body>
 </html>
+=======
+
+>>>>>>> Stashed changes
